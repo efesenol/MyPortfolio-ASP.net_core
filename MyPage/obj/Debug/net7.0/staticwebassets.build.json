@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0Z5NCpwV2jekXcoyaw9Fl6XYNhyHvKQms0rSv6+f4sM=",
+  "Hash": "5aI0xPg4gXQ9/RXH1js5T/+cjxbq9AHQLz3BwXf7WLE=",
   "Source": "MyPage",
   "BasePath": "_content/MyPage",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyPage\\wwwroot",
       "Source": "MyPage",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyPage.styles.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyPage.styles.css",
       "SourceId": "MyPage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "MyPage.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyPage.styles.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyPage.styles.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyPage.bundle.scp.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyPage.bundle.scp.css",
       "SourceId": "MyPage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "MyPage.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyPage.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyPage.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\css\\site.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\css\\steller.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\css\\steller.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "css/steller.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\steller.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\favicon.ico",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\avatar.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\avatar.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/avatar.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\avatar.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\avatar-1.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\avatar-1.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/avatar-1.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\avatar-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\avatar-2.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\avatar-2.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/avatar-2.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\avatar-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\avatar-3.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\avatar-3.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/avatar-3.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\avatar-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\blog-1.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\blog-1.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/blog-1.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\blog-2.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\blog-2.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/blog-2.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\blog-3.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\blog-3.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/blog-3.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\Efe Şenol.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\Efe Şenol.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/Efe Şenol.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Efe Şenol.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\folio-1.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\folio-1.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/folio-1.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\folio-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\folio-2.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\folio-2.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/folio-2.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\folio-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\folio-3.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\folio-3.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/folio-3.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\folio-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\folio-4.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\folio-4.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/folio-4.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\folio-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\folio-5.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\folio-5.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/folio-5.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\folio-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\folio-6.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\folio-6.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/folio-6.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\folio-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\images.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\images.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/images.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\images.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\logo.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\logo.svg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/logo.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\man.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\man.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/man.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\man.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\man.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\man.svg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/man.svg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\man.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\slider-img.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\slider-img.jpg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/slider-img.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\slider-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\imgs\\Yazılım Geliştirici.png",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\imgs\\Yazılım Geliştirici.png",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "imgs/Yazılım Geliştirici.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Yazılım Geliştirici.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\js\\site.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\js\\steller.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\js\\steller.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "js/steller.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\steller.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\abstracts\\_mixins.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\abstracts\\_mixins.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/abstracts/_mixins.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\abstracts\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\abstracts\\_utilities.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\abstracts\\_utilities.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/abstracts/_utilities.scss",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\abstracts\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\abstracts\\_variables.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\abstracts\\_variables.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/abstracts/_variables.scss",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\abstracts\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\base\\_typography.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\base\\_typography.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/base/_typography.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\base\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\components\\_buttons.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\components\\_cards.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\components\\_carousel.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\components\\_carousel.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/components/_carousel.scss",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\components\\_forms.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\components\\_googlemap.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\components\\_googlemap.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/components/_googlemap.scss",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_googlemap.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\components\\_navbar.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\components\\_navbar.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/components/_navbar.scss",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\components\\_progressbar.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\components\\_progressbar.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/components/_progressbar.scss",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_progressbar.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\layout\\_footer.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\layout\\_footer.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/layout/_footer.scss",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\layout\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\layout\\_header.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\layout\\_header.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/layout/_header.scss",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\layout\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\layout\\_section.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\layout\\_section.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/layout/_section.scss",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\layout\\_section.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\steller.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\steller.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/steller.scss",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\steller.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_alert.scss",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_badge.scss",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_breadcrumb.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_button-group.scss",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_buttons.scss",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_card.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_carousel.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_close.scss",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_code.scss",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_custom-forms.scss",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_dropdown.scss",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_forms.scss",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_functions.scss",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_grid.scss",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_images.scss",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_input-group.scss",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_jumbotron.scss",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_list-group.scss",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_media.scss",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_mixins.scss",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_modal.scss",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_nav.scss",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_navbar.scss",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_pagination.scss",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_popover.scss",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_print.scss",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_progress.scss",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_reboot.scss",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_root.scss",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_spinners.scss",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_tables.scss",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_toasts.scss",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_tooltip.scss",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_transitions.scss",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_type.scss",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_utilities.scss",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/_variables.scss",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_alert.scss",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_badge.scss",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_caret.scss",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_float.scss",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_forms.scss",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_grid.scss",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_hover.scss",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_image.scss",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_lists.scss",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_resize.scss",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_size.scss",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_transition.scss",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_align.scss",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_background.scss",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_borders.scss",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_display.scss",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_embed.scss",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_flex.scss",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_float.scss",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_position.scss",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_text.scss",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.affix.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.affix.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.affix.js",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.affix.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.js",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.js.map",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.min.js",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/bootstrap/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/jquery/jquery-3.4.1.js",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.4.1.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/jquery/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/jquery/jquery-3.4.1.min.map",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.4.1.min.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/jquery/jquery-3.4.1.slim.js",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/jquery/jquery-3.4.1.slim.min.js",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/jquery/jquery-3.4.1.slim.min.map",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\themify-icons\\css\\themify-icons.css",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\themify-icons\\css\\themify-icons.css",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/themify-icons/css/themify-icons.css",
       "AssetKind": "All",
@@ -3836,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify-icons\\css\\themify-icons.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.eot",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.eot",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/themify-icons/fonts/themify.eot",
       "AssetKind": "All",
@@ -3855,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify-icons\\fonts\\themify.eot"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.svg",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/themify-icons/fonts/themify.svg",
       "AssetKind": "All",
@@ -3874,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify-icons\\fonts\\themify.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.ttf",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/themify-icons/fonts/themify.ttf",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\themify-icons\\fonts\\themify.ttf"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.woff",
+      "Identity": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\vendors\\themify-icons\\fonts\\themify.woff",
       "SourceId": "MyPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\wwwroot\\",
       "BasePath": "_content/MyPage",
       "RelativePath": "vendors/themify-icons/fonts/themify.woff",
       "AssetKind": "All",
