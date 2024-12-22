@@ -19,9 +19,9 @@ namespace MyPage.Controllers
         {
 
 
-            var model = new PostsViewModel();
-            model.Users = db.Users.ToList();
-            return View(model);
+            //var model = new PostsViewModel();
+            //model.Users = db.Users.ToList();
+            return View();
         }
 
 

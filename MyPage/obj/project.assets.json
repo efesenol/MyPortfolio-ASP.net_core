@@ -2974,11 +2974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\MyPage.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\MyPage.csproj",
       "projectName": "MyPage",
-      "projectPath": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\MyPage.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\MyPage.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\VisualStudio\\MyPage\\MyPage\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

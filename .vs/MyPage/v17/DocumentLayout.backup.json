@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23649047-674D-4650-996C-B2BFB3D2105D}|MyPage\\MyPage.csproj|c:\\users\\user\\desktop\\myportfolio\\myportfolio-asp.net_core\\mypage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23649047-674D-4650-996C-B2BFB3D2105D}|MyPage\\MyPage.csproj|solutionrelative:mypage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyPage\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MyPortfolio\\MyPortfolio-ASP.net_core\\MyPage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyPage\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:51:25.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
